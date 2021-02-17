@@ -7,3 +7,5 @@ This is a simple readme file.
 Just some random changes, on a new branch "Updates".
 
 I hope this leads to conflict but does not cause much problem.
+
+Trying out the "git stash"
